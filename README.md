@@ -9,3 +9,4 @@ The Surface created.
 The Ball created.
 Both surface and the Ball are colored.
 Applied input data to the Player(The Ball).
+The ball moves now and the camera follows the ball.
