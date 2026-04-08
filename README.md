@@ -1,6 +1,6 @@
   # Roll A Ball - Unity Project
 
-Berkay Çiçek 
+Berkay Çiçek 2504040222
 Kent Üniversitesi  
 Digital Game Design  
 
