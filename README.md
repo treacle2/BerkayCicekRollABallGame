@@ -14,3 +14,4 @@ Walls added to the playing surface.
 Pickups added but it is just rotating not interactable.
 Pickups are now interactable.
 When you collect the pickups there is a counter on the top left of the screen that counts.
+There is a enemy now.
