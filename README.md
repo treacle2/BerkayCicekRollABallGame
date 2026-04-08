@@ -11,3 +11,4 @@ Both surface and the Ball are colored.
 Applied input data to the Player(The Ball).
 The ball moves now and the camera follows the ball.
 Walls added to the playing surface.
+Pickups added but it is just rotating not interactable.
