@@ -24,5 +24,5 @@ Digital Game Design
 -  When it catches you, you die.
 
   I’ve learned the basics of the Unity Game Engine. 
-  Along the way, I encountered many errors, but thanks to AI tools, I was able to overcome them. 
-  In the end, I gained a lot of knowledge and a deeper understanding of how game development works.
+  Along the way, I encountered many errors, but with help of the AI tools, I was able to fix them. 
+  In the end, I gained a lot of information and a deeper understanding of how game development works.
